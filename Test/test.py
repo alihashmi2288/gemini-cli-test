@@ -1,1 +1,1 @@
-print("Hello from test.py")
+print("hello world from gemini cli")
